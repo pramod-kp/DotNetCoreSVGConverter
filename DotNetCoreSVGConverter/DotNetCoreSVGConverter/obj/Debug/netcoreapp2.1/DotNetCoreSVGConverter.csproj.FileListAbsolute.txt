@@ -1,0 +1,8 @@
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\bin\Debug\netcoreapp2.1\DotNetCoreSVGConverter.deps.json
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\bin\Debug\netcoreapp2.1\DotNetCoreSVGConverter.dll
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\obj\Debug\netcoreapp2.1\DotNetCoreSVGConverter.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\obj\Debug\netcoreapp2.1\DotNetCoreSVGConverter.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\obj\Debug\netcoreapp2.1\DotNetCoreSVGConverter.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\bin\Debug\netcoreapp2.1\DotNetCoreSVGConverter.pdb
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\obj\Debug\netcoreapp2.1\DotNetCoreSVGConverter.dll
+C:\Users\kp pramod\source\repos\DotNetCoreSVGConverter\DotNetCoreSVGConverter\obj\Debug\netcoreapp2.1\DotNetCoreSVGConverter.pdb

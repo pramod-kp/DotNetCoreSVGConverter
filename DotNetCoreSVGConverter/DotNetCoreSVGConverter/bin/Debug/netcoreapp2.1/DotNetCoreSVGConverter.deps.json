@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "c17c1bb83dae2fb08570dad644b9efeeea9afd97"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DotNetCoreSVGConverter/1.0.0": {
+        "dependencies": {
+          "Magick.NET-Q16-AnyCPU": "7.14.0"
+        },
+        "runtime": {
+          "DotNetCoreSVGConverter.dll": {}
+        }
+      },
+      "Magick.NET-Q16-AnyCPU/7.14.0": {
+        "runtime": {
+          "lib/netstandard20/Magick.NET-Q16-AnyCPU.dll": {
+            "assemblyVersion": "7.14.0.0",
+            "fileVersion": "7.14.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCoreSVGConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magick.NET-Q16-AnyCPU/7.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qboDZBNTM2wp3Q39FfGJ1pEow3rYinzZZmP4CsR5QwNAIMBhTJEZ+LoIZaGy2NoHmsdnXKQ4LFgykRiW63N4dQ==",
+      "path": "magick.net-q16-anycpu/7.14.0",
+      "hashPath": "magick.net-q16-anycpu.7.14.0.nupkg.sha512"
+    }
+  }
+}
